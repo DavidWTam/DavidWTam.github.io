@@ -20,15 +20,15 @@ As a visual learner myself, through using word clouds, I was able to showcase th
 ![E-Commerce Dataset Sample](/images/EC NLP 4.png) ![E-Commerce Dataset Sample](/images/EC NLP 5.png)
 
 Off the bat, there are a few points we can see (to preface, I also took into account words that appear in combination and also the stems of words):
-1) There are similar words that appear in reviews where customers noted they would recommend (for simplicity, we will call these positive reviews) and those that say they would not recommend (negative reviews).
-2) The term 'love' appears proportionately more frequently in positive reviews whereas 'like' appears more frequently in negative reviews.
-3) Looking at the differences in the top 10 words, 'great' does not crack the top 10 for negative reviews, and 'fabric' does not appear in the top 10 words for positive reviews.  
+1. There are similar words that appear in reviews where customers noted they would recommend (for simplicity, we will call these positive reviews) and those that say they would not recommend (negative reviews).
+2. The term 'love' appears proportionately more frequently in positive reviews whereas 'like' appears more frequently in negative reviews.
+3. Looking at the differences in the top 10 words, 'great' does not crack the top 10 for negative reviews, and 'fabric' does not appear in the top 10 words for positive reviews.  
 
 As mentioned earlier, this is a quick exploratory analysis and as you can see, we can easily capture the essence of the reviews. There are many next steps that can be taken to further analyze these conversations/reviews such as:
-1) Identifying if specific divisions or product categories have more positive/negative reviews, especially for similar words. Is the surrounding context also similar?
-2) In the case of negative reviews containing the word 'fabric', what about the fabric and which type of fabric is commonly raised as a concern?
-3) Could we use methods like KNN or Decision Trees to help us identify demographics that favour our products? 
-4) Beyond the reviews that customers are leaving, we can even go one step further and listen to the conversations that they are having on outlets like Twitter and other social platforms.
+1. Identifying if specific divisions or product categories have more positive/negative reviews, especially for similar words. Is the surrounding context also similar?
+2. In the case of negative reviews containing the word 'fabric', what about the fabric and which type of fabric is commonly raised as a concern?
+3. Could we use methods like KNN or Decision Trees to help us identify demographics that favour our products? 
+4. Beyond the reviews that customers are leaving, we can even go one step further and listen to the conversations that they are having on outlets like Twitter and other social platforms.
 
 So while we may all be apart from each other right now, this may be the best time to start to listening to each other.
 
