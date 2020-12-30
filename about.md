@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-First off, thank you for visiting my website! By clicking this page, you must have been at least slightly curious about me, so to summarize who I am in one sentence - I am a Data and Marketing enthusiast with a passion for 4 main things: travelling, food, basketball and technology (in no particular order), and my goal is to leverage data to revolutionize the way these industries connect with their consumers.
+First off, thank you for visiting my website! By clicking this page, you must have been at least slightly curious about me, so to summarize who I am in one sentence - I am a Data and Marketing enthusiast with a passion for 5 main things: travelling, food, basketball, fashion and technology (in no particular order), and my goal is to leverage data to revolutionize the way these industries connect with their consumers.
   
   
 ### Work Experience
